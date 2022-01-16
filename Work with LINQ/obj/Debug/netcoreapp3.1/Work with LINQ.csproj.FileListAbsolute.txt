@@ -1,0 +1,14 @@
+E:\Project from yspex\Work with LINQ\Work with LINQ\bin\Debug\netcoreapp3.1\Work with LINQ.exe
+E:\Project from yspex\Work with LINQ\Work with LINQ\bin\Debug\netcoreapp3.1\Work with LINQ.deps.json
+E:\Project from yspex\Work with LINQ\Work with LINQ\bin\Debug\netcoreapp3.1\Work with LINQ.runtimeconfig.json
+E:\Project from yspex\Work with LINQ\Work with LINQ\bin\Debug\netcoreapp3.1\Work with LINQ.runtimeconfig.dev.json
+E:\Project from yspex\Work with LINQ\Work with LINQ\bin\Debug\netcoreapp3.1\Work with LINQ.dll
+E:\Project from yspex\Work with LINQ\Work with LINQ\bin\Debug\netcoreapp3.1\Work with LINQ.pdb
+E:\Project from yspex\Work with LINQ\Work with LINQ\obj\Debug\netcoreapp3.1\Work with LINQ.csproj.AssemblyReference.cache
+E:\Project from yspex\Work with LINQ\Work with LINQ\obj\Debug\netcoreapp3.1\Work with LINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project from yspex\Work with LINQ\Work with LINQ\obj\Debug\netcoreapp3.1\Work with LINQ.AssemblyInfoInputs.cache
+E:\Project from yspex\Work with LINQ\Work with LINQ\obj\Debug\netcoreapp3.1\Work with LINQ.AssemblyInfo.cs
+E:\Project from yspex\Work with LINQ\Work with LINQ\obj\Debug\netcoreapp3.1\Work with LINQ.csproj.CoreCompileInputs.cache
+E:\Project from yspex\Work with LINQ\Work with LINQ\obj\Debug\netcoreapp3.1\Work with LINQ.dll
+E:\Project from yspex\Work with LINQ\Work with LINQ\obj\Debug\netcoreapp3.1\Work with LINQ.pdb
+E:\Project from yspex\Work with LINQ\Work with LINQ\obj\Debug\netcoreapp3.1\Work with LINQ.genruntimeconfig.cache
